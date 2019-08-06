@@ -1,11 +1,11 @@
 # tools_resources
 This repository contains useful tools and learning resources for my study.
 
-# tools
+## tools
 useful tools
 
-# resources
+## resources
 courses and other resources for research and daily study
 
-# jobs
+## jobs
 resources for looking for jobs
