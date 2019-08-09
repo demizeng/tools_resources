@@ -9,3 +9,6 @@ This repository contains useful tools and learning resources for my study.
 
 * jobs
 >resources for looking for jobs
+
+* competition
+>resources and information of AI competitions
